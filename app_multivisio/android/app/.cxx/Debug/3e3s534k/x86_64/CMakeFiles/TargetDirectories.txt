@@ -1,0 +1,2 @@
+D:/App Multivisio/app_multivisio/android/app/.cxx/Debug/3e3s534k/x86_64/CMakeFiles/edit_cache.dir
+D:/App Multivisio/app_multivisio/android/app/.cxx/Debug/3e3s534k/x86_64/CMakeFiles/rebuild_cache.dir

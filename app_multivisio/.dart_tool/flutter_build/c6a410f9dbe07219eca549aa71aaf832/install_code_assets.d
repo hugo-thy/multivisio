@@ -1,0 +1,1 @@
+ D:\\App\ Multivisio\\app_multivisio\\.dart_tool\\flutter_build\\c6a410f9dbe07219eca549aa71aaf832\\native_assets.json: 
